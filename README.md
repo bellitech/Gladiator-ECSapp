@@ -1,4 +1,4 @@
-This application is intended to be used for ECS size calculations. 
+Minor-test 2 - Test This application is intended to be used for ECS size calculations. 
 
 <b>Installation</b><p>
 Not much to do. All of the code resides in the html file. Open the file on your phone or desktop. 
